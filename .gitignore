@@ -1,3 +1,4 @@
 test/
 .DS_Store
 Braided-Channels/*.mp4
+vars.env
