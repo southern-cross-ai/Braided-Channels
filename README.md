@@ -22,6 +22,8 @@ Please refer to the [original dataset](https://data.ldaca.edu.au/collection?id=a
 
 ## Download
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/southern-cross-ai/Braided-Channels/main?labpath=braided_channels.ipynb)
+
 To download the dataset, please walk through the notebook `braided_channels.ipynb` to explore how we use [LDaCA](https://data.ldaca.edu.au/) API to retrieve and download the dataset.
 
 Please acknowledge that this notebook is modified and adapted from [GitHub - Australian-Text-Analytics-Platform/cooee](https://github.com/Australian-Text-Analytics-Platform/cooee).
